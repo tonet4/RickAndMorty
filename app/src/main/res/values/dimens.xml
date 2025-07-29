@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Padding-->
+    <dimen name="padding_top_title">56dp</dimen>
+    <dimen name="padding_mini">4dp</dimen>
+    <dimen name="padding_mini_small">6dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_medium">24dp</dimen>
+    <dimen name="padding_large">32dp</dimen>
+
+    <!--Height-->
+    <dimen name="height_text_field_search">48dp</dimen>
+    <dimen name="height_character_card">66dp</dimen>
+    <dimen name="height_bottom_bar">112dp</dimen>
+    <dimen name="height_detail_main_image">182dp</dimen>
+
+    <!--Width-->
+    <dimen name="width_medium">16dp</dimen>
+
+    <!--Size-->
+    <dimen name="size_icon_search">18dp</dimen>
+    <dimen name="size_icon">28dp</dimen>
+    <dimen name="size_character_image">50dp</dimen>
+
+    <!--Offset-->
+    <dimen name="offset_heart">24dp</dimen>
+
+    <!--Shape-->
+    <dimen name="radio_normal">4dp</dimen>
+
+</resources>

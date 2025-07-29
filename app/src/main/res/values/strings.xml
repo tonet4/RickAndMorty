@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="error_no_error">Todo funciona correctamente.</string>
+    <string name="error_bad_request">La solicitud no ha podido ser procesada. Por favor, compruebe su información.</string>
+    <string name="error_not_found">No se ha podido encontrar el recurso buscado.</string>
+    <string name="error_unauthorized">No estás autorizado a realizar esta acción.</string>
+    <string name="error_internal_server">Ha habido un problema con nuestro servidor. Vuelva a intentarlo más tarde.</string>
+    <string name="error_connection">No se puede conectar con el servidor. Compruebe su conexión a Internet.</string>
+    <string name="error_unknown">Algo ha ido mal. Por favor, inténtelo de nuevo.</string>
+    <string name="characters_title">RICKY AND MORTY</string>
+    <string name="search_placeholder">Search</string>
+    <string name="action_search_characters">Characters</string>
+    <string name="action_select_favourites">My favourites</string>
+    <string name="title_detail">Character detail</string>
+    <string name="title_favorites">MI FAVOURITES</string>
+    <string name="list_of_episodes">List of episodes:</string>
+    <string name="label_specie">Specie: </string>
+    <string name="label_type">Type: </string>
+    <string name="label_from">From: </string>
+    <string name="label_status">Status: </string>
+    <string name="label_first_time_seen">First time seen: </string>
+    <string name="label_last_time_seen">Last time seen: </string>
+    <string name="unknown">Unknown</string>
+</resources>
