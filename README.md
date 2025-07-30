@@ -162,19 +162,6 @@ Rick and Morty es una aplicación Android que consume la API oficial de Rick and
 
 ---
 
-## 🎯 Casos de uso técnicos
-
-### Desarrollador Android Junior
-"Esta app demuestra dominio de las tecnologías Android más actuales: Jetpack Compose para UI moderna, Clean Architecture para código mantenible, y Room para persistencia local."
-
-### Arquitecto de Software
-"La implementación de Clean Architecture con separación clara de capas muestra comprensión sólida de principios SOLID y arquitecturas escalables."
-
-### Tech Lead
-"El uso de Retrofit, manejo de estados asíncronos y implementación de favoritos offline demuestra capacidad para desarrollar features completas end-to-end."
-
----
-
 ## 🔧 Posibles mejoras futuras
 
 - [ ] **Paginación**: Implementar Paging 3 para listas grandes
